@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodge_sim", "Dodge_sim.csproj", "{EA30B748-30D7-4DE5-C65E-E1EFA7CF5744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodge_sim.Editor", "Dodge_sim.Editor.csproj", "{3129F27F-8B65-63A1-A081-CCD49C59B035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA30B748-30D7-4DE5-C65E-E1EFA7CF5744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA30B748-30D7-4DE5-C65E-E1EFA7CF5744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA30B748-30D7-4DE5-C65E-E1EFA7CF5744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA30B748-30D7-4DE5-C65E-E1EFA7CF5744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3129F27F-8B65-63A1-A081-CCD49C59B035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3129F27F-8B65-63A1-A081-CCD49C59B035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3129F27F-8B65-63A1-A081-CCD49C59B035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3129F27F-8B65-63A1-A081-CCD49C59B035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
